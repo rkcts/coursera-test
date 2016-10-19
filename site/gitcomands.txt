@@ -2,5 +2,13 @@ git clone  https://rkcts.github.io/coursera-test/
 
 git status
 
+git checkout ph-pages   (for checking out in local )
 
 git add .  (mark something for commiting)
+
+
+git config --global user.email "rk81189@gmail.com"
+--global user.name "rk81189@gmail.com"
+git commit -m "My first commit"
+
+git push
