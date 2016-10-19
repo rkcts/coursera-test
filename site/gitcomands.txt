@@ -1,0 +1,6 @@
+git clone  https://rkcts.github.io/coursera-test/
+
+git status
+
+
+git add .  (mark something for commiting)
